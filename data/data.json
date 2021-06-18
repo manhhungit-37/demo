@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "./images/1.png",
+      "name": "Fortune Sunflower Oil",
+      "price": 7.99,
+      "realPrice": 10,
+      "position": "gift"
+    },
+    {
+      "id": 2,
+      "img": "./images/2.png",
+      "name": "Pepsi Soft Drink (2 Ltr)",
+      "price": 8,
+      "realPrice": 10,
+      "position": "offer"
+    },
+    {
+      "id": 3,
+      "img": "./images/3.png",
+      "name": "Basmati Rise (5 Kg)",
+      "price": 11.99,
+      "realPrice": 15,
+      "position": "no"
+    },
+    {
+      "id": 4,
+      "img": "./images/4.png",
+      "name": "Dogs Food (4 Kg)",
+      "price": 9,
+      "realPrice": 11,
+      "position": "offer"
+    }
+  ]
+}
